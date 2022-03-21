@@ -217,7 +217,13 @@ justify-content: center;
   width: 100px;
   margin-right: 30px;
 }
-
+.subscribe{
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  background:linear-gradient(75deg, rgba(50, 9, 233, 0.884), rgb(255, 0, 98));
+  
+}
 
 
 
