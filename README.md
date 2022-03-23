@@ -1,7 +1,10 @@
 # Insurance-Website
- Insurance-website
-By Gladys Mwangi
+
+ # Insurance-website
+ 
+By  Rose Mwangi
 It is a description of an Insurance website.
+
 * Table of Content
 * Description
 * Installation Requirement
@@ -9,7 +12,7 @@ It is a description of an Insurance website.
 * Reference
 * Licence
 * Authors Info
-* 
+
 Description
 
 This application is a web application,that gives the customers the ability to see the various types of Insurance provided with the pricing. It also gives the location of our offices and the various platforms you might find us.
@@ -29,9 +32,9 @@ Requirements
 
 Either a computer,phone,tablet or an Ipad
 
-An access to the Internet
+ * An access to the Internet
 
-Installation Process
+* Installation Process
 
 Visual Studio Code is quick and easy and it is a small download so you can install in a matter of minutes. VS Code is a free code editor, which runs on the macOS, Linux, and Windows operating systems and is lightweight and should run on most available hardware and platform versions.
 
@@ -39,17 +42,17 @@ Go Back to the top
 
 Technology Used
 
-The technology used for this project was HTML AND CSS.
+* The technology used for this project was HTML AND CSS.
 
-HTML - which was used to build the structure of the pages.
+* HTML - which was used to build the structure of the pages.
 
-CSS - which was used to style the pages incuding the landing page.
+* CSS - which was used to style the pages incuding the landing page.
 
 Reference
-Materialize CSS
-W3 schools
-DEV Community
-Go Back to the top
+ * Materialize CSS
+* W3 schools
+* DEV Community
+* Go Back to the top
 
 Licence
 MIT License
